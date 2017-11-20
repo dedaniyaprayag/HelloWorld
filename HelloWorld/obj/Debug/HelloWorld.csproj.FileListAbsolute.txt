@@ -1,1 +1,5 @@
 c:\users\prayag\documents\visual studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\prayag\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\prayag\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\prayag\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\prayag\Documents\Visual Studio 2012\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
